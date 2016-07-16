@@ -1,0 +1,12 @@
+{
+  "name": "Ionic-Side-Menu-Chrome-App",
+  "description": "Chrome App with Ionic Frameork",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "assets/ionic_16x16.png", "128": "assets/ionic_128x128.png" }
+}
